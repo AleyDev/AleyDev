@@ -1,6 +1,6 @@
 # 💫 About Me:
 
--🧑‍💻 I'm a Junior Backend Developer.<br>-🌱 I'm currently learning PHP and Laravel.<br>-🐍 Also I interested in Python – especially for scripting and backend tools.<br>-🔧 Passionate about backend development, RESTful APIs, and database design.<br>-🛠 Technologies I use: PHP, Laravel, Python, MySQL, Git, GitHub.<br>-🎯 Goal: Writing clean, readable, and maintainable backend code.<br>
+-🧑‍💻 I'm a Junior Backend Developer.<br>-🌱 I'm currently learning PHP and Laravel.<br>-🐍 Also I interested in Python – especially for scripting and backend tools.<br>-🔧 I' m passionate about backend development, RESTful APIs, and database design.<br>-🛠 Technologies I use: PHP, Laravel, Python, MySQL, Git, GitHub.<br>-🎯 Goal: Writing clean, readable, and maintainable backend code.<br>
 
 
 ## 🌐 Socials:
